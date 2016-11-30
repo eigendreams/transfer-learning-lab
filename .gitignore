@@ -1,4 +1,6 @@
+*.zip
 data
 models
 .ipynb_checkpoints
 bottlenecks
+*.p
